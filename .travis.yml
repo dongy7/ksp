@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+- stable
+
+before_install:
+- openssl aes-256-cbc -K $encrypted_ad6a83d36f3a_key -iv $encrypted_ad6a83d36f3a_iv
+  -in deploy_key.enc -out deploy_key -d
