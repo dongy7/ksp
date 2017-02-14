@@ -1,4 +1,5 @@
 # KSP
+[![Build Status](https://travis-ci.org/dongy7/ksp.svg?branch=master)](https://travis-ci.org/dongy7/ksp)
 
 Presentation for game critique on [Kerbal Space Program](https://en.wikipedia.org/wiki/Kerbal_Space_Program)
 
