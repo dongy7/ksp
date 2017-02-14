@@ -1,23 +1,12 @@
 # KSP
+
 [![Build Status](https://travis-ci.org/dongy7/ksp.svg?branch=master)](https://travis-ci.org/dongy7/ksp)
 
 Presentation for game critique on [Kerbal Space Program](https://en.wikipedia.org/wiki/Kerbal_Space_Program)
 
 ## Setup
 
-Some reveal.js features, like external Markdown and speaker notes, require that presentations run from a local web server. The following instructions will set up such a server as well as all of the development tasks needed to make edits to the reveal.js source code.
-
 1. Install [Node.js](http://nodejs.org/) (4.0.0 or later)
-
-1. Clone the reveal.js repository
-   ```sh
-   $ git clone https://github.com/hakimel/reveal.js.git
-   ```
-
-1. Navigate to the reveal.js folder
-   ```sh
-   $ cd reveal.js
-   ```
 
 1. Install dependencies
    ```sh
